@@ -1,0 +1,12 @@
+@font-face {
+    font-family: '6 Cells Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('6 Cells Regular'), url('6 Cells.woff') format('woff');
+}
+
+h1 {
+    font-family: '6 Cells Regular';
+    font-weight: 200;
+    color: white;
+}
