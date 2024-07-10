@@ -4,6 +4,9 @@ import Card from "./Card";
 // Filtering Component
 
 const CardList = ({ robots }) => {
+    // if (true) {
+    //     throw new Error("Noooooo!")
+    // }
     return (
         <>
             {robots.map((user, i, id, username) => {
